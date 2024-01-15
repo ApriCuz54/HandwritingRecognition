@@ -2,6 +2,8 @@
 
 Welcome to our handwriting recognition model exploration project! In this endeavor, we delved into the fascinating world of deep learning, specifically focusing on Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Long Short-Term Memory networks (LSTMs). Our primary motivation was to gain a comprehensive understanding of these neural network architectures and their applications in the realm of handwriting recognition.
 
+The dataset used was: https://www.kaggle.com/datasets/landlord/handwriting-recognition
+
 ## Project Objectives:
 
 **Reference Model Implementation**: We initiated our journey by implementing a handwriting recognition model based on a code found on Kaggle. This served as our starting point, providing a foundation for our subsequent experiments and modifications.
